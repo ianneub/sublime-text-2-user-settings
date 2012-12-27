@@ -1,0 +1,12 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"Git",
+		"Package Control",
+		"SublimeXiki",
+		"Tag",
+		"Theme - Soda"
+	]
+}

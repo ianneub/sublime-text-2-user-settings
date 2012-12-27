@@ -1,0 +1,11 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_to_bracket": true,
+	"tab_size": 2,
+	"theme": "Soda Light.sublime-theme"
+}

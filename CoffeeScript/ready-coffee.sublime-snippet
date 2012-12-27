@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[\$ ->
+  ${0:# Handler for .ready() called.}
+]]></content>
+	<tabTrigger>ready</tabTrigger>
+	<scope>source.coffee</scope>
+</snippet>

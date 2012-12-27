@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>${1}</title>
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="http://code.jquery.com/jquery.min.js" type="text/javascript"></script>
+  <link rel="stylesheet" href="http://yui.yahooapis.com/3.5.0/build/cssreset/cssreset-min.css" />
+</head>
+<body>
+  ${0}
+</body>
+</html>
+]]></content>
+	<tabTrigger>html5</tabTrigger>
+	<scope>text.html.basic</scope>
+  <description>HTML5 basic HTML template</description>
+</snippet>
