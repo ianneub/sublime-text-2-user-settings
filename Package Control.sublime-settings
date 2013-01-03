@@ -2,9 +2,15 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"CoffeeCompile",
 		"CoffeeScript",
 		"Git",
+		"HTMLAttributes",
+		"Liquid",
+		"MarkdownEditing",
 		"Package Control",
+		"StringEncode",
+		"SublimeCodeIntel",
 		"SublimeXiki",
 		"Tag",
 		"Theme - Soda"
