@@ -4,15 +4,19 @@
 	[
 		"CoffeeCompile",
 		"CoffeeScript",
+		"Crypto",
+		"Gist",
 		"Git",
 		"HTMLAttributes",
+		"LESS",
 		"Liquid",
 		"MarkdownEditing",
 		"Package Control",
+		"Sass",
 		"StringEncode",
-		"SublimeCodeIntel",
 		"SublimeXiki",
 		"Tag",
-		"Theme - Soda"
+		"Theme - Soda",
+		"VBScript"
 	]
 }
