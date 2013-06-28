@@ -1,11 +1,12 @@
 {
 	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
 	"default_encoding": "UTF-8",
-	"ensure_newline_at_eof_on_save": false,
+	"ensure_newline_at_eof_on_save": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"show_minimap": false,
 	"spell_check": true,
 	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",

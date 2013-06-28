@@ -1,6 +1,8 @@
 {
 	"extensions":
 	[
-		"ru"
+		"ru",
+		"Vagrantfile",
+    "Berksfile"
 	]
 }
