@@ -16,35 +16,33 @@
 								}
 			},
 
-			//separator
+			// separator
 			{"caption":"-"},
 
-			//application 2
+			// iTerm
 			{
-				"caption": "SeaMonkey",
-				"id": "side-bar-files-open-with-seamonkey",
+				"caption": "iTerm",
+				"id": "side-bar-files-open-with-iterm",
 
 				"command": "side_bar_files_open_with",
 				"args": {
 									"paths": [],
-									"application": "C:\\Archivos de programa\\SeaMonkey\\seamonkey.exe", // WINNT
+									"application": "iTerm.app",
 									"extensions":"" //open all even folders
 								}
 			},
-			//application n
+			// Source Tree
 			{
-				"caption": "Chrome",
-				"id": "side-bar-files-open-with-chrome",
+				"caption": "Source Tree",
+				"id": "side-bar-files-open-with-iterm",
 
 				"command": "side_bar_files_open_with",
 				"args": {
 									"paths": [],
-									"application": "C:\\Documents and Settings\\tito\\Configuración local\\Datos de programa\\Google\\Chrome\\Application\\chrome.exe",
-									"extensions":".*" //any file with extension
+									"application": "SourceTree.app",
+									"extensions":"" //open all even folders
 								}
-			},
-
-			{"caption":"-"}
+			}
 		]
 	}
 ]

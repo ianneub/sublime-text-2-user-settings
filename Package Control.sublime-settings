@@ -2,12 +2,14 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
-		"CoffeeCompile",
 		"CoffeeScript",
 		"Crypto",
+		"Dockerfile Syntax Highlighting",
 		"EJS",
 		"Gist",
 		"Git",
+		"Handlebars",
+		"HTML Mustache",
 		"HTMLAttributes",
 		"LESS",
 		"Liquid",
@@ -17,10 +19,13 @@
 		"ruby-slim.tmbundle",
 		"Sass",
 		"SCSS",
+		"Shell Turtlestein",
 		"SideBarEnhancements",
 		"StringEncode",
+		"SublimeXiki",
 		"Tag",
 		"Theme - Soda",
+		"Vagrant",
 		"VBScript"
 	]
 }

@@ -4,5 +4,6 @@
 		"md",
 		"mdown",
 		"mmd"
-	]
+	],
+  "tab_size":4
 }

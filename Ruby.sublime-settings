@@ -3,6 +3,8 @@
 	[
 		"ru",
 		"Vagrantfile",
-    "Berksfile"
+		"Berksfile",
+		"jbuilder",
+		".env"
 	]
 }
