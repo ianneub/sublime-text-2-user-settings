@@ -1,6 +1,8 @@
 {
 	"extensions":
 	[
-		"vcl.erb"
+		"vcl.erb",
+		"vcl.tmpl",
+		"tmpl"
 	]
 }
